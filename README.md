@@ -10,5 +10,5 @@ Just go to the folder that contains "Text2Hex.exe" and "icon.ico" and delete all
 
 # Frequently asked questions (FAQ)
 Is this a virus? **No.**
-How do i get Ultra keys? **Join the [discord,](https://discord.gg/qeKmJKSnta) every once in a while i run giveaways. You can soon pay for keys on the website.**
+How do i get Ultra keys? **Join the [discord,](https://discord.gg/qeKmJKSnta) every once in a while i run giveaways. You can soon pay for keys on the [website](https://text2hex.github.io).**
 
